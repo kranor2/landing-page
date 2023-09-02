@@ -202,3 +202,11 @@ h4 {
     flex-grow: 0;
     align-items: center;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
