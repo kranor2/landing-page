@@ -6,5 +6,8 @@ I built this project as part of the Foundations course with the Odin Project. As
 
 ## Credits
 
-Page design: The Odin Project
-Image: Markus Spiske (source: Pexels)
+### Page design
+The Odin Project
+
+### Image
+Markus Spiske (source: Pexels)
